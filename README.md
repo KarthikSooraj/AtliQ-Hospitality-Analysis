@@ -1,8 +1,6 @@
 # AtliQ-Hospitality-Analysis
 This is a Data Analytics project I have done using Power BI as part of Codebasics SQL Project Challenge.
 
-This is a resume project challenge by Codebasics.
-
 Provide Insights to Revenue Team in Hospitality Domain
 
 Domain: Hospitality    Function: Revenue
